@@ -1,0 +1,3 @@
+certbot_email: mail@2bstock.ru
+certbot_hosts:
+    - jenkins.account.2bstock.ru

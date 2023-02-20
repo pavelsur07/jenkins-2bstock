@@ -1,0 +1,12 @@
+all:
+    children:
+        manager:
+            hosts:
+                server:
+                    ansible_connection: ssh
+                    ansible_user: root
+                    ansible_host: 89.108.102.71
+                    ansible_port: 22
+        agent:
+            hosts:
+
